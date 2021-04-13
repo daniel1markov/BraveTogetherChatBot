@@ -1,2 +1,2 @@
 # BraveTogetherChatBot
-Hackathon project - chat bot for registration
+Hackathon project - telegram chat bot for registration
